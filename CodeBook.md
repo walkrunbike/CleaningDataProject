@@ -20,5 +20,7 @@ Column: 81 (Column identifying the subject + Column identifying the activity per
 Columns Details:
 ----------------
 subject: Identifier for test subject 1-30.
+
 activity: Identifier for task performed (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
+
 79 other mean and standard deviation readings from sensors 
