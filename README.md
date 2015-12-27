@@ -11,6 +11,7 @@ Contents:
 + README.md : This file containing description of the analysis. 
 + run_analysis.R : R source code for creating a tidy data set.
 + CodeBook.md : The codebook describing the tidy data set.
++ tidydata.txt : The resulting file from run_analysis.R
 
 
 Analysis
